@@ -44,4 +44,4 @@ The script has several options that you can change:
 
 ## Examples  
 
-![Search ](C:\Users\Virtus\Desktop\Search-similar-images\ris1.jpg)
+![Search ](C:\\Users\\Virtus\\Desktop\\Search-similar-images\\ris1.jpg)
