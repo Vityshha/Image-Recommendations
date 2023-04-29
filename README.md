@@ -40,3 +40,8 @@ The script has several options that you can change:
   - "emb_filename": The name of the pickle file to save the image embeddings. By default, it is set to "images_weights.pickle"
   
   - "num_images": The number of images to display in the output. By default, it is set to "6"
+
+
+## Examples  
+
+![Search ](C:\Users\Virtus\Desktop\Search-similar-images\ris1.jpg)
